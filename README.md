@@ -39,15 +39,15 @@ Figure No.1. The Confusion Matrix for Ridge Classification
 
 **Figure No.1. Source: [DJIA 30 Stock Time Series](https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/data), created by [scikit-learn: Ridge regression and classification](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)**
 
-Figure No.1 is the confusion matrix of [Ridge Classification](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification) algorithm for Bitcoin ROI prediction. The confusion matrix provides an evaluation of the performance of the classification algorithm we use. In this matrix, the X-axis is the predicted label and the Y-axis is the true label,where 0 indicates a negative ROI and 1 indicates a positive ROI. As it approaches yellow, the number is larger, and as it approaches purple, the number is smaller. The figure shows that our model correctly classifies all 141 Positive ROI cases (True Positive), but misclassifies all 192 negative ROI cases (False Positive). The model accuracy is (TP + TN)/(TP + TN + FP + FN) = 141/333 = 0.42, the recall is TP/(TP + FN) = 141/141 = 1.00, and the precision is TP/(TP + FP) = 141/333 = 0.42 (Formula reference: [Krukrubo 2019](https://pub.towardsai.net/the-confusion-matrix-for-classification-eb3bcf3064c7)).
+Figure No.1 is the confusion matrix of [Ridge Classification](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification) algorithm for GOOGL ROI prediction using historical ROI data. The confusion matrix evaluates the performance of the classification algorithm. In this matrix, the X-axis is the predicted label and the Y-axis is the true label, in which 0 implies negative ROI while 1 indicates the ROI is nonnegative. From the left to the right, from the top to the bottom are TP, FP, FN, and TN respectively. Due to only one X is used for this prediction and more Xes are needed, what we predict are all nonnegative ROI. In the model, the accuracy is (TP + TN)/(TP + TN + FP + FN) = 530/ 1006= 0.53, the recall is TP/(TP + FN) = 0/530 = 0.00, and the precision is TP/(TP + FP) = 0/333 = 0.00 
 
 ![figure2](https://github.com/Jay2251929205/STATS201-prediction-tutorial/blob/main/Spotlight/figures/Pred_y.png)
 
-Figure No.2. Prediction value of y under Elasstic Net
+Figure No.2. Histogram of Prediction Value y under Elasstic Net
 
 **Figure No.2. Source: [DJIA 30 Stock Time Series](https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/data), created by [scikit-learn: Lasso and Elastic Net for Sparse Signals](https://scikit-learn.org/stable/auto_examples/linear_model/plot_lasso_and_elasticnet.html#sphx-glr-auto-examples-linear-model-plot-lasso-and-elasticnet-py)**
 
-
+Figure No.2 is the histogram of prediction value and true value using the algorithm Elastic Net
 
 **Figures:**
 
