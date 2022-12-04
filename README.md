@@ -1,6 +1,6 @@
 # STATS201-prediction-tutorial
 
-# Title: Prediction for GOOGL's Return of Investment from 2006/01/01 to 2018/01/01 Based on Time Series Data
+# Prediction for GOOGL's Return of Investment from 2006/01/01 to 2018/01/01 Based on Time Series Data
 ## Project information
 - **Author**: Jiayi Wang, Apllied Mathematics, Class of 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
@@ -11,25 +11,25 @@
 ## Table of Contents
 | Contents  | URL |
 | ------------- | ------------- |
-| Data  | Content Cell  |
-| Code  | Content Cell  |
-| Spotlight  | Content Cell  |
+| Data  | https://github.com/Jay2251929205/STATS201-prediction-tutorial/tree/main/data |
+| Code  | https://github.com/Jay2251929205/STATS201-prediction-tutorial/tree/main/code  |
+| Spotlight  | https://github.com/Jay2251929205/STATS201-prediction-tutorial/tree/main/Spotlight  |
 
 
 
 ## Data
 | Contents  | URL |
 | ------------- | ------------- |
-| Data Source | Content Cell  |
-| Quesried Data  | Content Cell  |
-| Processed Data  | Content Cell  |
+| Data Source | https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/data  |
+| Queried Data  | https://github.com/Jay2251929205/STATS201-prediction-tutorial/tree/main/data/Queried_data  |
+| Processed Data  | https://github.com/Jay2251929205/STATS201-prediction-tutorial/tree/main/data/Processed_data  |
 
 
 ## Code
 | Contents  | URL |
 | ------------- | ------------- |
-| Process Data  | Content Cell  |
-| Analyze Data  | Content Cell  |
+| Process Data  | https://github.com/Jay2251929205/STATS201-prediction-tutorial/blob/main/code/Process_Code_.ipynb  |
+| Analyze Data  | https://github.com/Jay2251929205/STATS201-prediction-tutorial/blob/main/code/Jiayi_Wang_Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion.ipynb  |
 
 ## Spotlight
 - Figures
@@ -41,8 +41,8 @@
 
 | Contents  | URL |
 | ------------- | ------------- |
-| Process Data  | Content Cell  |
-| Analyze Data  | Content Cell  |
+| Figures  | https://github.com/Jay2251929205/STATS201-prediction-tutorial/tree/main/Spotlight/figures  |
+| Review articles  | Content Cell  |
 ## References
 
 ### Data Source
