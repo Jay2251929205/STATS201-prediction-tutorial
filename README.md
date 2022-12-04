@@ -2,7 +2,7 @@
 
 # Prediction for GOOGL's Return of Investment from 2006/01/01 to 2018/01/01 Based on Time Series Data
 ## Project information
-- **Author**: Jiayi Wang, Apllied Mathematics, Class of 2024, Duke Kunshan University
+- **Author**: Jiayi Wang, Applied Mathematics, Class of 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I am deeply indebted to my professor Luyao Zhang for her invaluable patience and feedback. I could not started my journey without her instructions and help. Additionally, this endeavor would not have been possible without Kaggle and those enthusiatic content sharers on the platform. I am also grateful to my classmates, especially for Haoyang's sharing in class. Lastly, I would be remiss in not mentioning my family, especially my parents.
