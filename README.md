@@ -5,29 +5,31 @@
 - **Author**: Jiayi Wang, Apllied Mathematics, Class of 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Acknowledgments**: I am deeply indebted to my professor Luyao Zhang for her invaluable patience and feedback. I could not started my journey without her instructions and help. Additionally, this endeavor would not have been possible without Kaggle and those enthusiatic content sharers on the platform. I am also grateful to my classmates, especially for Haoyang's sharing in class. Lastly, I would be remiss in not mentioning my family, especially my parents.
 - **Project Summary**: [Summarize the Background/Motivation, Research Questions, Application Scenario (Data Source), Results, Intellectual Merits and Practical impacts of your project.]
 
 ## Table of Contents
-- data
-- code
-- spotlight
+| Contents  | URL |
+| ------------- | ------------- |
+| Data  | Content Cell  |
+| Code  | Content Cell  |
+| Spotlight  | Content Cell  |
 
 
 
 ## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
+| Contents  | URL |
+| ------------- | ------------- |
+| Data Source | Content Cell  |
+| Quesried Data  | Content Cell  |
+| Processed Data  | Content Cell  |
 
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+| Contents  | URL |
+| ------------- | ------------- |
+| Process Data  | Content Cell  |
+| Analyze Data  | Content Cell  |
 
 ## Spotlight
 - Figures
@@ -37,14 +39,37 @@
 - Review articles
 - Media appearance
 
+| Contents  | URL |
+| ------------- | ------------- |
+| Process Data  | Content Cell  |
+| Analyze Data  | Content Cell  |
 ## References
 
 ### Data Source
-- Data Source Title and URL
+
+
+|  Platform | URL |
+| ------------- | ------------- |
+| Kaggle | [DJIA 30 Stock Time Series](https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/data) |
+
 ### Code Source
-- Code Source Title and URL
+
+
+|  Platform | URL |
+| ------------- | ------------- |
+| GitHub | [Instructions for GitHub Readme](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) |
+| GitHub | [Sample Code for Prediction](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction) |
+| Scikit Learn | [Classification and Regression](https://scikit-learn.org/stable/modules/linear_model.html#bayesian-regression) |
+
 ### Articles
-- Article Source Title and URL
+
+|  Title | URL |
+| ------------- | ------------- |
+|  Machine Learning for Predictions| https://ms.pubpub.org/pub/ml-prediction |
+|  Venues for Computer Security and Beyond | https://ms.pubpub.org/pub/security |
+|  Venues for Machine Learning&nbsp | https://ms.pubpub.org/pub/ml |
+|  Computing Platforms: Set up the Workspace for Machine Learning Projects | https://ms.pubpub.org/pub/computing |
+|  Resources for Blockchain Network Studies | https://ms.pubpub.org/pub/network |
 ### Literature
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
