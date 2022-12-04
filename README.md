@@ -37,7 +37,7 @@
 
 Figure No.1. The Confusion Matrix for Ridge Classification
 
-**Figure No.1. Source: [DJIA 30 Stock Time Series](https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/data), created by [scikit-learn: Ridge regression and classification](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)**
+**Figure No.1. Source: [DJIA 30 Stock Time Series](https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/data), created by [scikit-learn](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)**
 
 Figure No.1 is the confusion matrix of [Ridge Classification](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification) algorithm for GOOGL ROI prediction using historical ROI data. The confusion matrix evaluates the performance of the classification algorithm. In this matrix, the X-axis is the predicted label and the Y-axis is the true label, in which 0 implies negative ROI while 1 indicates the ROI is nonnegative. From the left to the right, from the top to the bottom are TP, FP, FN, and TN respectively. Due to only one X is used for this prediction and more Xes are needed, what we predict are all nonnegative ROI. In the model, the accuracy is (TP + TN)/(TP + TN + FP + FN) = 530/ 1006= 0.53, the recall is TP/(TP + FN) = 0/530 = 0.00, and the precision is TP/(TP + FP) = 0/333 = 0.00 
 
@@ -45,7 +45,7 @@ Figure No.1 is the confusion matrix of [Ridge Classification](https://scikit-lea
 
 Figure No.2. Histogram of Prediction Value y under Bayesian Regression
 
-**Figure No.2. Source: [DJIA 30 Stock Time Series](https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/data), created by [scikit-learn: Lasso and Elastic Net for Sparse Signals](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)**
+**Figure No.2. Source: [DJIA 30 Stock Time Series](https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/data), created by [scikit-learn](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)**
 
 Figure No.2 is the histogram of prediction value and true value using the algorithm Bayesian Regression. The x-axis represents the ROI and the y-axis represents the number of data under each ROI. The more area the true value and the prediction value duplicates, the more accurate the prediction is. Under this algorithm, the true and the prediction perfectly duplicates and at the time r2 score is 1.00, showing the two values are perfectly correlated. 
 
