@@ -55,8 +55,6 @@ https://github.com/Jay2251929205/STATS201-prediction-tutorial/tree/main/Spotligh
 
 **Review articles:**  
 
-[Understanding the ROC Curve and AUC](https://towardsdatascience.com/understanding-the-roc-curve-and-auc-dd4f9a192ecb) 
-
 [The Confusion Matrix for Classification](https://pub.towardsai.net/the-confusion-matrix-for-classification-eb3bcf3064c7)
 ## References
 
@@ -86,19 +84,18 @@ https://github.com/Jay2251929205/STATS201-prediction-tutorial/tree/main/Spotligh
 |  Computing Platforms: Set up the Workspace for Machine Learning Projects | https://ms.pubpub.org/pub/computing |
 |  Resources for Blockchain Network Studies | https://ms.pubpub.org/pub/network |
 ### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
+
 
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
 
-```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-```
+Krukrubo, Lawrence Alaso. 2019. “The Confusion Matrix for Classification.” Medium. Aug 19, 2019. https://pub.towardsai.net/the-confusion-matrix-for-classification-eb3bcf3064c7.
+
+Zhang, L. (Sunshine). (2022). Machine Learning for Predictions. Machine Learning for Social Science. Retrieved from https://ms.pubpub.org/pub/ml-prediction
+
+Zhang, L. (Sunshine). (2022). Venues for Computer Security and Beyond. Machine Learning for Social Science. Retrieved from https://ms.pubpub.org/pub/security
+
+Zhang, L. (Sunshine). (2022). Venues for Machine Learning&nbsp; Machine Learning for Social Science. Retrieved from https://ms.pubpub.org/pub/ml
+
+Zhang, L. (Sunshine). (2022). Computing Platforms: Set up the Workspace for Machine Learning Projects. Machine Learning for Social Science. Retrieved from https://ms.pubpub.org/pub/computing
+
+Zhang, L. (Sunshine). (2022). Resources for Blockchain Network Studies. Machine Learning for Social Science. Retrieved from https://ms.pubpub.org/pub/network
